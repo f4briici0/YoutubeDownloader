@@ -1,5 +1,13 @@
 Created by: fabricio!
 
+Requisitos:
+
+ º Baixar ffmpeg
+
+ º Criar pastas:
+	º music_raw_download
+	º musics
+
 
 Mp3Converter:
 Para a utilização mova as músicas para pasta: music_raw_download, após isso execute o script Mp3Converter
