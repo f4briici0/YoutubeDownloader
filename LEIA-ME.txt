@@ -1,0 +1,5 @@
+Created by: fabricio!
+
+
+Mp3Converter:
+Para a utilização mova as músicas para pasta: music_raw_download, após isso execute o script Mp3Converter
